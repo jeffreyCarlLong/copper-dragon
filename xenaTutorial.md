@@ -2,18 +2,18 @@
 
 Xena is the latest cancer genome visualization software 
 being developed by Mary Goldman at UCSC Genomics Institute. 
-The following details are a summary of some functionality 
+The following examples demonstrate the functionality 
 delivered by this software.
 
 Cancer cells have many ways of evading apoptosis. 
-Mutating P53 (a tumor suppressor gene) or 
+Mutating P53, a tumor suppressor gene or 
 upregulating expression of telomerase are just a couple.
 
 * Explore telomerase pathway genes in TCGA Low Grade Glioma (LGG)
 
   * [TP53, ATRX, TERT](https://xenabrowser.net/heatmap/?bookmark=e52775e76ecb7179306ae74c29742ecf)
   
-EGFR DNA amplification is a common molecular abnormality in glioblastoma and LGG.  
+EGFR DNA amplification is a common molecular abnormality in glioblastoma.  
 PTEN is also an important tumor suppressor which is found to be mutated in many human cancers.
   
 * Observe copy number variations in TCGA brain tumors
@@ -58,3 +58,7 @@ in three generations. Hum Genet  1978;42:349–52)
 * Co-deletion of chromosomes in TCGA lower grade gliomas
 
   * [1p and 19q](https://xenabrowser.net/heatmap/?bookmark=0bf10d0dd69ee9871fe0abce78a96dbc)
+  
+Now it's your turn!
+Try to investigate the gene: CDKN2A copy number variation in the project: TCGA, cancer: LGG.
+It is often deleted, either homozygous or heterozygously.
