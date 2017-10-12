@@ -62,3 +62,7 @@ in three generations. Hum Genet  1978;42:349–52)
 Now it's your turn!
 Try to investigate the gene: CDKN2A copy number variation in the project: TCGA, cancer: LGG.
 It is often deleted, either homozygous or heterozygously.
+
+https://xenabrowser.net/heatmap/
+
+
